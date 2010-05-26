@@ -1,0 +1,6 @@
+doc/app
+doc/api
+log/*
+tmp/**/*
+public/cache/*
+
